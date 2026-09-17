@@ -1,0 +1,41 @@
+{
+  "exclusions": [],
+  "audit_log": [
+    {
+      "tracking_id": "NOTE-8841-0004",
+      "tender_id": "T-8841",
+      "officer_name": "Insp. R. Venkatesh",
+      "agency": "CCI (Antitrust Taskforce)",
+      "action": "BENEFICIAL_OWNERSHIP",
+      "auditor_notes": "2026-09-17: Cross-referenced GSTIN prefix with MCA-21 database. Confirmed common directorship in Pune SPV.",
+      "timestamp": "2026-09-17T18:07:59.998868Z"
+    },
+    {
+      "tracking_id": "AUD-INIT-0001",
+      "tender_id": "T-8841",
+      "officer_name": "Insp. R. Venkatesh",
+      "agency": "CCI (Antitrust Taskforce)",
+      "action": "BENEFICIAL_OWNERSHIP",
+      "auditor_notes": "Flagged shared beneficial ownership and identical registered MIDC Bhosari address between Apex Infra and Vardhan Paving. Transferred to Section 3(3) Cartel Inquest Desk.",
+      "timestamp": "2026-09-17T14:22:00Z"
+    },
+    {
+      "tracking_id": "AUD-INIT-0002",
+      "tender_id": "T-8841",
+      "officer_name": "Adv. S. Ramanathan",
+      "agency": "CVC (Vigilance Audit Cell)",
+      "action": "BID_ROTATION",
+      "auditor_notes": "Historical bid-rotation analysis demonstrates 100% win-rate alternation across MSRDC highway tenders over 6 consecutive cycles. Recommended for formal subpoena.",
+      "timestamp": "2026-09-17T15:45:00Z"
+    },
+    {
+      "tracking_id": "AUD-INIT-0003",
+      "tender_id": "T-4401",
+      "officer_name": "Dr. K. Swaminathan",
+      "agency": "CVC (Medical Technical Panel)",
+      "action": "PAC_VERIFIED",
+      "auditor_notes": "Verified GFR 2017 Rule 166 Proprietary Articles Certificate for AIIMS 3.0T MRI. Legitimate sole OEM manufacturer Wipro GE Healthcare Pvt Ltd. Dampening confirmed.",
+      "timestamp": "2026-09-16T11:30:00Z"
+    }
+  ]
+}

@@ -1,0 +1,56 @@
+{
+  "33115100-3": {
+    "name": "High-Field 3.0T MRI Scanners & Diagnostic Imaging Systems",
+    "sector": "Healthcare & Medical Devices (AIIMS / PGIMER)",
+    "natural_monopoly": true,
+    "sole_source_prevalence": 0.85,
+    "typical_margin_std": 0.04,
+    "baseline_unit_price": 102500000.0,
+    "description": "High-field 3.0 Tesla magnetic resonance imaging systems procured under GFR 2017 Rule 166 (Proprietary Articles Certificate - PAC) by apex tertiary medical institutes."
+  },
+  "45233120-6": {
+    "name": "National Highway Bituminous Concrete Paving & Median Reconstruction",
+    "sector": "Highway & Civil Infrastructure (NHAI / MoRTH)",
+    "natural_monopoly": false,
+    "sole_source_prevalence": 0.04,
+    "typical_margin_std": 0.07,
+    "baseline_unit_price": 460000000.0,
+    "description": "Four-laning and dense bituminous macadam resurfacing works executed on National Highway corridors under NHAI and State PWD tenders."
+  },
+  "72200000-7": {
+    "name": "Mission Mode e-Governance Cloud & Data Platform Architecture",
+    "sector": "Information Technology (MeitY / NIC / GeM)",
+    "natural_monopoly": false,
+    "sole_source_prevalence": 0.10,
+    "typical_margin_std": 0.12,
+    "baseline_unit_price": 75000000.0,
+    "description": "Enterprise cloud hosting, microservice modernization, and public digital infrastructure development under Digital India initiatives."
+  },
+  "35610000-8": {
+    "name": "Airborne Tactical Radar LRUs & Fighter Avionics Assemblies",
+    "sector": "Defense & Strategic Hardware (DRDO / MoD)",
+    "natural_monopoly": true,
+    "sole_source_prevalence": 0.88,
+    "typical_margin_std": 0.03,
+    "baseline_unit_price": 1420000000.0,
+    "description": "Indigenous active electronically scanned array (AESA) radar assemblies and tactical mission computer LRUs manufactured under proprietary defense production licences."
+  },
+  "55524000-9": {
+    "name": "PM-POSHAN Scheme Centralized Mid-Day Meal Catering Services",
+    "sector": "Public Welfare & Education (State Departments of Education)",
+    "natural_monopoly": false,
+    "sole_source_prevalence": 0.06,
+    "typical_margin_std": 0.05,
+    "baseline_unit_price": 42000000.0,
+    "description": "District-level dietary preparation, temperature-controlled transit, and daily nutritional compliance monitoring for government school clusters."
+  },
+  "30192000-1": {
+    "name": "GeM Rate Contract Administrative Stationery & Consumables",
+    "sector": "Government e-Marketplace (GeM Procurement)",
+    "natural_monopoly": false,
+    "sole_source_prevalence": 0.02,
+    "typical_margin_std": 0.03,
+    "baseline_unit_price": 8500000.0,
+    "description": "Rate-contract office stationary, security parchment, and electronic registry stationery procured across Central Ministries."
+  }
+}
